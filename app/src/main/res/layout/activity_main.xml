@@ -20,7 +20,7 @@
         android:id="@+id/button_btn"
         android:layout_width="206dp"
         android:layout_height="48dp"
-        android:text="Button 1"
+        android:text="open unity app"
         app:layout_constraintBottom_toTopOf="@+id/button2_btn"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
